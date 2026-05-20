@@ -1,7 +1,0 @@
-{
-    "workbench.colorTheme": "Atom One Dark",
-    "security.workspace.trust.untrustedFiles": "open",
-    "[python]": {
-        "diffEditor.ignoreTrimWhitespace": false
-    }
-}
